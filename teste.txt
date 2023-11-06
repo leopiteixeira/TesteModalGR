@@ -1,0 +1,5 @@
+Nome|Email|DtNascimento
+Pedro Fonseca|pedro@gmail.com|2000-09-17
+Juliana Fernandes|juliana@gmail.com|1994-05-03
+Leonardo Teixeira|leo@gmail.com|2004-11-09
+Marcela Santos|marc@gmail.com|1976-02-28
